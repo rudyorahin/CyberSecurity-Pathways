@@ -8,7 +8,7 @@ Embark on an enthralling odyssey through the intricate and exhilarating world of
 ## 🛡️ What's in Our Arsenal?
 
 In this repository, you'll find:
-- Scripts crafted in the mystical language of Bash.
+- Scripts crafted in the mystical language of [Bash](./Bash_Skills_and_Concepts.md).
 - Guides to navigate the enigmatic Linux CLI – the hacker's playground.
 - Insights into the sorcery behind computer programming in various languages.
 - Blueprints to conjure and install software like a tech wizard.
