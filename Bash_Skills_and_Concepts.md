@@ -84,4 +84,4 @@
 ### Packet Wrapping and Unwrapping
 
 ## Additional Topics
-- Detailed explanations and examples for each topic will help users understand the intricacies of Bash programming and internet working.
+- Detailed explanations and examples for each topic will help users understand the intricacies of Bash programming and internet working. Wikipedia can be your first initial look-up source.
