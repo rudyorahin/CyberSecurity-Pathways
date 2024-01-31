@@ -9,8 +9,9 @@ Embark on an enthralling odyssey through the intricate and exhilarating world of
 
 In this repository, you'll find:
 - Scripts crafted in the mystical language of [Bash](./Bash_Skills_and_Concepts.md).
-- Guides to navigate the enigmatic Linux CLI – the hacker's playground.
-- Insights into the sorcery behind computer programming in various languages.
+- Guides to navigate the enigmatic [Linux CLI](./Linux_CLI_Essentials.md) – the hacker's playground.
+- Insights into the sorcery behind computer programming in various languages and [Bash Scripting](./Bash_Scripting_Linux_Shell_Script.md)
+.
 - Blueprints to conjure and install software like a tech wizard.
 - Portals to send your inquiries and explore the uncharted territories of cybersecurity.
 
