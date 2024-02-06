@@ -39,7 +39,7 @@ Your journey will traverse through various realms of knowledge:
 
 And for those who choose to walk the path of the Blue Team:
 1. **Blue Team Vanguard**: Understanding the role of a Blue Team, exploring SOC environments, delving into Wireshark.
-2. **Sentinels of Endpoints**: Monitoring logs, scanning for vulnerabilities, and deploying HIDS tools.
+2. **[Sentinels of Endpoints](./Sentinels_of_Endpoints.md)**: Monitoring logs, scanning for vulnerabilities, and deploying HIDS tools.
 3. **The Network Watchers**: Deciphering common network protocols, packet sniffing, and wielding Snort.
 4. **Enterprise Guardians**: Unraveling network layers, proxy server tactics, and defending against DOS attacks.
 5. **Masters of SIEM**: Commanding UEBA, navigating SIEM Systems, and exploring Splunk.
